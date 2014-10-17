@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wbq:home|Door43 (wbq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wbq|d43-wbq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wbq/archive/master.zip|d43-wbq.zip]]
+
+**Recent Changes**
+{{changes>ns = wbq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wbq|Ethnologue data]]
+
